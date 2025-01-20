@@ -265,6 +265,7 @@ public:
         }
     }
 };
+```
 3. Description de l'implémentation
 Le système gère deux types de rendez-vous : standards et urgents.
 Les rendez-vous urgents sont traités via une classe dérivée, permettant d'ajouter une priorité spécifique.
@@ -305,4 +306,4 @@ Le code source complet est disponible dans les fichiers du projet.
 
 2. Exécuter le code
 Pour exécuter le code, compilez les fichiers source avec un compilateur C++ et lancez l'exécutable généré.
-```
+
